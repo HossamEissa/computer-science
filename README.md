@@ -86,8 +86,8 @@ just remember that you can't purchase success!
 >  - Third-party notion templates
 
 # Curriculum
-- [ ] Set up project structure
-- [ ] Develop core features
+- [x] Set up project structure
+- [x] Develop core features
 - [ ] Write documentation
 - [ ] Deploy to server
 **Curriculum version**: `8.0.0` (see [CHANGELOG](CHANGELOG.md))
